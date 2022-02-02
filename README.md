@@ -10,7 +10,7 @@ The template includes the following dependencies:
 
 How to use the template:
 
-#### `git clone this repo`
+#### `Use this repository as a template for your new repository`
 #### `npm install`
 #### `npm run dev`
 
